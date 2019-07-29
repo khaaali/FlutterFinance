@@ -1,2 +1,2 @@
 # FlutterFinance
-Financial expense tracker application in flutter
+Financial expense tracker application using flutter
